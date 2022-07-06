@@ -1,2 +1,2 @@
 # MIDS1D
-Repository for MIDS1D Course Challenge
+## Repository for MIDS1D Course Challenge
