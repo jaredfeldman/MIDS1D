@@ -6,7 +6,7 @@
 - **How can you look up the process ID of your server? Document the command line used and the output**
 
 ### Commands used
-** Install make**
+**Install make**
 `sudo apt install make`
 
 **Install darkhttpd**
