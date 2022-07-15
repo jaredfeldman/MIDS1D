@@ -39,3 +39,5 @@
 
 **copy images directory from where unpacked tarball to newly created html directory**
 `cp -R images ~/projects/MIDS1D/website/darkhttpd/html`
+
+**Before going too far down potentially incorrect path, I needed to copy and move all darkhttpd files because they were in a submodule within my MIDS1D repo due to cloning the project from github within the repo and initializing it to test. I ran `cp [filename] ~/projects/MIDS1D/website` for every file and `cp -R [directoryname] ~/projects/MIDS1D/website` for every subdirectory. This removed the need for the submodule and allowed me to keep everything in the same repository**
