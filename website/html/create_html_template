@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# use heredoc to create a template HTML file with chunks of 3 blocks for images
+
+
