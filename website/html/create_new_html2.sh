@@ -25,8 +25,8 @@ done
 #done
 
 # indicate the matching line and use leading spaces
-match="    </tr>"
-replace="    hello"
+match='replace'
+replace="        hello"
 
 # for every line in the index.html file, find line that matches $match and replace with sed
 for line in $(cat ./index.html)
