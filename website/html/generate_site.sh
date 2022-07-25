@@ -25,7 +25,7 @@ done
 
 # before moving forward to avoid overwriting or duplication, remove any existing file named temp_index.html
 temp_html_file=temp_index.html
-if [[ -f "$html_file" ]]
+if [[ -f "$temp_html_file" ]]
 then
 	rm temp_index.html
 fi

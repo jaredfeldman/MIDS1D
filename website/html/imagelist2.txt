@@ -23,7 +23,9 @@ GLP Bewegung Tag 0bis3.gif
 GradientOfRegularPentagonExteriorAngle.gif
 Grafik Barisan Recaman - Recamán Sequence Plot.png
 Graph conductance.svg
+Gráfico de dos funciones 01.PNG
 Gráfico de dos funciones 01.jpg
+Gráfico de dos funciones 01.png
 Hejného metoda graf.jpg
 Histogram sum of length 1 permutations of 1 2 3.svg
 Histogram sum of length 2 permutations of 1 2 3.svg
