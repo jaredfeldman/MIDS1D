@@ -1,2 +1,0 @@
-        <td><img src="images2/Vertical wall are never parallel.PNG" alt="" border=3 height=100 width=300</th>
-        <td><img src="images2/Vingenere 1.png" alt="" border=3 height=100 width=300</th>

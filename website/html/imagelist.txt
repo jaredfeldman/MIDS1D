@@ -157,3 +157,4 @@ U1 shur.gif
 Vertical horizontal.PNG
 Vertical wall are never parallel.PNG
 Vingenere 1.png
+magic.mgc
