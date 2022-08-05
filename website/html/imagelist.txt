@@ -21,10 +21,10 @@ Field tube of infinitesimal cross-sectional area..png
 Fields of Mathematics Ukr.png
 GLP Bewegung Tag 0bis3.gif
 GradientOfRegularPentagonExteriorAngle.gif
-Grafik Barisan Recaman - Recamán Sequence Plot.png
+Grafico de dos funciones 01.jpg
+Grafik Barisan Recaman - Recaman Sequence Plot.png
 Graph conductance.svg
-Gráfico de dos funciones 01.jpg
-Hejného metoda graf.jpg
+Hejneho metoda graf.jpg
 Histogram sum of length 1 permutations of 1 2 3.svg
 Histogram sum of length 2 permutations of 1 2 3.svg
 Histogram sum of length 3 permutations of 1 2 3.svg
@@ -54,7 +54,7 @@ PointToLineDistance.png
 Portal Math Banner Background ka.jpg
 Portal Math Banner hy.png
 Pyramids in 4 Dimensions.png
-Román Segura Senn.jpg
+Roman Segura Senn.jpg
 Rossler Periodic Orbit Winding 2.gif
 Rossler Periodic Orbit w2.gif
 Rossler Periodic W3.gif
@@ -62,7 +62,8 @@ Rossler periodic orbit winding number 1.gif
 Selimut Ny Perkins 1-6.png
 SilverRatioCirclesTangentLine 2.gif
 SilverRatioCirclesTangentLine.gif
-Sistema anotación alge 005.jpg
+Sistema anotacion alge 005.jpg
+Sit jehlanu.png
 Slope of graph with a unit increase in x.png
 Solid ellipsoid.svg
 StanislawSisk.jpg
@@ -71,7 +72,6 @@ Subdivision rule related to 4-chain alternating link.png
 Subdivisions of a tile type for 4-chain rule.png
 Subtangent.png
 Symmetry zero.png
-Síť jehlanu.png
 TREE(1) i TREE(2).png
 Tangent line versus secant line.png
 Temperature Variation Situation.svg

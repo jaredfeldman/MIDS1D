@@ -53,3 +53,13 @@
 
 **Moving working files to ../html/archives directory to clean up html directory and for potential future reference (executed while in ../html directory)**
 `mv {filename} archives`
+
+**Reformatted 6 images that were not displaying. I did this manually using `mv`, but found the names of the images that were not displaying by using the browser and seeing which were returning 404s. I used the `iconv -t ASCII//TRANSLIT <<< {filename}` command for each of the 6 files and then manually renamed each one**
+*Note: I tried to write variations of the for loop below but was unsuccessful in using the command above to rename the files*
+```
+for file in *
+do
+	mv $file (iconv -t ASCII/TRANSLIT <<< {filename})
+done
+```
+**After all of the above, I still see one image not displaying and do not know why: 'Portal Math Banner Background ka.jpg'**
